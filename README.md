@@ -10,7 +10,7 @@
 
 
 
-## 🚀 𝓟𝓮𝓻𝓼𝓸𝓷𝓪𝓵 𝓘𝓷𝓽𝓮𝓻𝓮𝓼𝓽
+## 🎨 𝓟𝓮𝓻𝓼𝓸𝓷𝓪𝓵 𝓘𝓷𝓽𝓮𝓻𝓮𝓼𝓽
 <div>
   <p>💼 Back-end Developer • Platform Engineer</p>
   <p>💻 System Programming Languages • DevOps</p>
@@ -21,7 +21,7 @@
 
 
 
-## 🚀 Featured Projects
+## 🚀 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓭 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [Super LLM](https://github.com/cv70/super-llm) | Innovative Multi-Model Collaborative System | Golang, ADK, Gin |
