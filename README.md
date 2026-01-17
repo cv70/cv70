@@ -12,7 +12,7 @@
 
 ## 🎨 𝓟𝓮𝓻𝓼𝓸𝓷𝓪𝓵 𝓘𝓷𝓽𝓮𝓻𝓮𝓼𝓽
 <div>
-  <p>💼 Back-end Developer • Platform Engineer</p>
+  <p>👨‍💻 Back-end Developer • Platform Engineer💼</p>
   <p>💻 System Programming Languages • DevOps</p>
   <p>📖 Software Architecture • Distributed Systems</p>
   <p>🧠 AI • Machine Learning • AI Infra • AI Agents</p>
