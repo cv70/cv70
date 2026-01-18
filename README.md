@@ -25,6 +25,7 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [Super LLM](https://github.com/cv70/super-llm) | Innovative Multi-Model Collaborative System | Golang, ADK, Gin |
+| [Action Schedule](https://github.com/cv70/ActionSchedule) | An automated trend insights system based on GitHub Actions | Python |
 | [Sun](https://github.com/cv70/sun) | A Small Chinese language model | Python, PyTorch |
 | [VC GO](https://github.com/cv70/vc-go) | A full-stack intelligent service platform for startups and entrepreneurs | Golang, Postgres, Milvus, ScyllaDB |
 | [ADK](https://github.com/cv70/adk) | Asynchronous Agent Framework Based on Rust | Rust, Tokio, Clap |
