@@ -24,6 +24,7 @@
 ## 🚀 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓭 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [SuperMan](https://github.com/cv70/SuperMan) | AI Multi-Agent Orchestration System | Python, LangChain, LangGraph |
 | [Super LLM](https://github.com/cv70/super-llm) | Innovative Multi-Model Collaborative System | Golang, ADK, Gin |
 | [Action Schedule](https://github.com/cv70/ActionSchedule) | An automated trend insights system based on GitHub Actions | Python |
 | [Sun](https://github.com/cv70/sun) | A Small Chinese language model | Python, PyTorch |
