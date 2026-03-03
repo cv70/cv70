@@ -1,27 +1,26 @@
-<div align="center">
+# Hi, I'm cv70 👋
 
-## 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖
-<div>
-  <p>𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝓌𝒽𝑜𝓁𝑒 𝓃𝑒𝓌 𝓌𝑜𝓇𝓁𝒹</p>
-  <p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓃𝑒𝑒𝒹 𝓉𝑜 𝑒𝓍𝓅𝓁𝑜𝓇𝑒</p>
-  <p>𝐼𝓉'𝓈 𝓉𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓉𝒽𝑒 𝓇𝒶𝒾𝓁</p>
-  <p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓁𝑜𝓋𝑒 𝒶𝓃𝒹 𝒶𝒹𝑜𝓇𝑒</p>
-</div>
-
-
-
-## 🎨 𝓟𝓮𝓻𝓼𝓸𝓷𝓪𝓵 𝓘𝓷𝓽𝓮𝓻𝓮𝓼𝓽
-<div>
-  <p>👨‍💻 Back-end Developer • Platform Engineer💼</p>
-  <p>💻 System Programming Languages • DevOps</p>
-  <p>📖 Software Architecture • Distributed Systems</p>
-  <p>🧠 AI • Machine Learning • AI Infra • AI Agents</p>
-  <p>🎮 Music • Games • Anime • Code • Art 🐤🐥</p>
-</div>
+![Rust](https://img.shields.io/badge/-Rust-FA7343?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-4285F4?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-0062D3?style=flat-square&logo=python&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
 
+> Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed. 🚀
+> 
+> Feel free to star any of my repositories if you find them useful. ⭐
+> 
+> Open to collaborations and interesting projects. 🤝
 
-## 🚀 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓭 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼
+
+## Philosophy
+"Ship beats perfect" - I build tools to solve my own problems, then share them with the world. Currently exploring how AI changes everything about software development.
+
+
+## Featured Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [Zero](https://github.com/cv70/zero) | Zero is a universal Agent runtime platform | Rust、Tokio、Axum、Clap |
@@ -29,6 +28,8 @@
 | [Super LLM](https://github.com/cv70/super-llm) | Innovative Multi-Model Collaborative System | Golang, ADK, Gin |
 | [Action Schedule](https://github.com/cv70/ActionSchedule) | An automated trend insights system based on GitHub Actions | Python |
 | [Sun](https://github.com/cv70/sun) | A Small Chinese language model | Python, PyTorch |
+| [VC](https://github.com/cv70/vc) | A full-stack intelligent service platform for startups and entrepreneurs | Rust, Tokio, Axum，TypeScript，React，Postgres、Qdrant、ScyllaDB |
+| [Magic](https://github.com/cv70/vc) | An AI-powered content creation engine | Rust, Tokio, Axum，TypeScript，React，Postgres、Qdrant、ScyllaDB |
 | [VC GO](https://github.com/cv70/vc-go) | A full-stack intelligent service platform for startups and entrepreneurs | Golang, Postgres, Milvus, ScyllaDB |
 | [ADK](https://github.com/cv70/adk) | Asynchronous Agent Framework Based on Rust | Rust, Tokio, Clap |
 | [Practial AI](https://github.com/cv70/practical-ai) | Practical AI Tutorials Embodying the Unity of Knowledge and Action | Python, NumPy, Pandas, PyTorch |
@@ -55,17 +56,10 @@
 | [File Sharing Server](https://github.com/cv70/file-sharing-server) | Server for a File Sharing System Implemented in C++ | C++, TCP, UDP |
 
 
-
-## 📊 𝓖𝓲𝓽𝓱𝓾𝓫 𝓢𝓽𝓪𝓽𝓼
-<div style="display: flex; align-items: center; gap: 40px; margin: 10px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=cv70&show_icons=true&include_all_commits=true" 
-       alt="cv70's github stats" 
-       style="vertical-align: middle;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cv70&layout=compact" 
-       alt="cv70's github stats" 
-       style="vertical-align: middle;">
-</div>
-
+## What I'm Doing
+- Living in the future
+- Writing about AI workflows
+- Rapid prototyping
 
 
 ## 📈 𝓒𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓲𝓸𝓷 𝓖𝓻𝓪𝓹𝓱
@@ -77,9 +71,5 @@
 
 ---
 
-<div style="text-align: center; margin-top: 30px;">
   <p>⭐ Feel free to star any of my repositories if you find them useful!</p>
   <p>🤝 Open to collaborations and interesting projects</p>
-</div>
-
-</div>
