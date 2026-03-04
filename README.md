@@ -70,6 +70,3 @@
 </picture>
 
 ---
-
-  <p>⭐ Feel free to star any of my repositories if you find them useful!</p>
-  <p>🤝 Open to collaborations and interesting projects</p>
