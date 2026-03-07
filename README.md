@@ -23,7 +23,7 @@
 ## Featured Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [CodeClaw](https://github.com/cv70/codeclaw) | CodeClaw bridges your local AI coding assistant to your instant messaging apps | Rust、Tokio、Axum、Clap |
+| [CodeClaw](https://github.com/cv70/codeclaw) | CodeClaw bridges your local AI coding assistant to your instant messaging apps | Golang |
 | [Zero](https://github.com/cv70/zero) | Zero is a universal Agent runtime platform | Rust、Tokio、Axum、Clap |
 | [Super Man](https://github.com/cv70/SuperMan) | AI Multi-Agent Orchestration System | Golang, ADK |
 | [Super LLM](https://github.com/cv70/super-llm) | Innovative Multi-Model Collaborative System | Golang, ADK, Gin |
