@@ -23,13 +23,14 @@
 ## Featured Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [CodeClaw](https://github.com/cv70/codeclaw) | CodeClaw bridges your local AI coding assistant to your instant messaging apps | Rust、Tokio、Axum、Clap |
 | [Zero](https://github.com/cv70/zero) | Zero is a universal Agent runtime platform | Rust、Tokio、Axum、Clap |
 | [Super Man](https://github.com/cv70/SuperMan) | AI Multi-Agent Orchestration System | Golang, ADK |
 | [Super LLM](https://github.com/cv70/super-llm) | Innovative Multi-Model Collaborative System | Golang, ADK, Gin |
 | [Action Schedule](https://github.com/cv70/ActionSchedule) | An automated trend insights system based on GitHub Actions | Python |
 | [Sun](https://github.com/cv70/sun) | A Small Chinese language model | Python, PyTorch |
 | [VC](https://github.com/cv70/vc) | A full-stack intelligent service platform for startups and entrepreneurs | Rust, Tokio, Axum，TypeScript，React，Postgres、Qdrant、ScyllaDB |
-| [Magic](https://github.com/cv70/vc) | An AI-powered content creation engine | Rust, Tokio, Axum，TypeScript，React，Postgres、Qdrant、ScyllaDB |
+| [Magic](https://github.com/cv70/magic) | An AI-powered content creation engine | Rust, Tokio, Axum，TypeScript，React，Postgres、Qdrant、ScyllaDB |
 | [VC GO](https://github.com/cv70/vc-go) | A full-stack intelligent service platform for startups and entrepreneurs | Golang, Postgres, Milvus, ScyllaDB |
 | [ADK](https://github.com/cv70/adk) | Asynchronous Agent Framework Based on Rust | Rust, Tokio, Clap |
 | [Practial AI](https://github.com/cv70/practical-ai) | Practical AI Tutorials Embodying the Unity of Knowledge and Action | Python, NumPy, Pandas, PyTorch |
