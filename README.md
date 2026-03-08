@@ -39,7 +39,7 @@
 | [Tokenizer](https://github.com/cv70/tokenizer) | Large Model Tokenizer Component Implemented in Go | Golang |
 | [Gocker](https://github.com/cv70/gocker) | Lightweight Container Implemented in Go | Golang |
 | [GTE](https://github.com/cv70/gte) | Lightweight Concurrent Server Framework Based on Go and epoll | Golang, Epoll, TCP, WebSocket |
-| [Chenix](https://github.com/cv70/tokenizer) | Lightweight Operating System Implemented in Rust | Rust |
+| [Chenix](https://github.com/cv70/chenix) | Lightweight Operating System Implemented in Rust | Rust |
 | [IM SRV](https://github.com/cv70/im-srv) | Service Processing Layer for a Lightweight Chat System | Golang, MySQL, ETCD, GROM, gRPC, JWT |
 | [IM API](https://github.com/cv70/im-api) | Gateway and Frontend Layer for a Lightweight Chat System | Golang, Vue, Swagger, ETCD, gRPC, WebSocket |
 | [Alpha Five](https://github.com/cv70/AlphaFive) | Gomoku AI Based on Reinforced Deep Learning | Python, PyTorch |
