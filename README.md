@@ -23,7 +23,7 @@
 ## Featured Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [IdeaGenerator](https://github.com/cv70/IdeaGenerator) | A tool to brainstorm ideas in bulk based on a core theme | Golang, Eino, SQLite, TypeScript, React |
+| [IdeaFactory](https://github.com/cv70/IdeaFactory) | Autonomous exploration control console for turning ambiguous topics into living direction maps | Golang, Eino, SQLite, TypeScript, React |
 | [CodeClaw](https://github.com/cv70/codeclaw) | CodeClaw bridges your local AI coding assistant to your instant messaging apps | Golang |
 | [Zero](https://github.com/cv70/zero) | Zero is a universal Agent runtime platform | Rust、Tokio、Axum、Clap |
 | [SuperMan](https://github.com/cv70/SuperMan) | AI Multi-Agent Orchestration System | Golang, ADK |
