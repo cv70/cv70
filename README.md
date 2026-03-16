@@ -28,7 +28,7 @@
 | [Zero](https://github.com/cv70/zero) | Zero is a universal Agent runtime platform | Rust、Tokio、Axum、Clap |
 | [SuperMan](https://github.com/cv70/SuperMan) | AI Multi-Agent Orchestration System | Golang, ADK |
 | [SuperLLM](https://github.com/cv70/super-llm) | Innovative Multi-Model Collaborative System | Golang, ADK, Gin |
-| [Action Schedule](https://github.com/cv70/ActionSchedule) | An automated trend insights system based on GitHub Actions | Python |
+| [ActionSchedule](https://github.com/cv70/ActionSchedule) | An automated trend insights system based on GitHub Actions | Python |
 | [Sun](https://github.com/cv70/sun) | A Small Chinese language model | Python, PyTorch |
 | [VC](https://github.com/cv70/vc) | A full-stack intelligent service platform for startups and entrepreneurs | Rust, Tokio, Axum，TypeScript，React，Postgres、Qdrant、ScyllaDB |
 | [Magic](https://github.com/cv70/magic) | An AI-powered content creation engine | Rust, Tokio, Axum，TypeScript，React，Postgres、Qdrant、ScyllaDB |
