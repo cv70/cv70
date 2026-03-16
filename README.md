@@ -65,7 +65,7 @@
 - Rapid prototyping
 
 
-## 📈 𝓒𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓲𝓸𝓷 𝓖𝓻𝓪𝓹𝓱
+## 📈 Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cv70/cv70/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cv70/cv70/output/github-contribution-grid-snake.svg">
