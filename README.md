@@ -19,6 +19,10 @@
 ## Philosophy
 "Ship beats perfect" - I build tools to solve my own problems, then share them with the world. Currently exploring how AI changes everything about software development.
 
+<p align="center">
+  <img src="assets/banner.gif" width=1024>
+</p>
+
 
 ## Featured Projects
 | Project | Description | Tech Stack |
