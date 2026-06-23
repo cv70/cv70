@@ -64,9 +64,9 @@
 
 
 ## What I'm Doing
-- Living in the future
-- Writing about AI workflows
-- Rapid prototyping
+- Living in the future.
+- Writing about AI workflows.
+- Rapid prototyping.
 
 
 ## 📈 Contribution Graph
