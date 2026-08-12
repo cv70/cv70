@@ -1,23 +1,54 @@
-# Hi, I'm cv70 👋
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+CV70+%F0%9F%91%8B;Harness%E2%80%91AI+tools.+Move+fast+and+break+things.;Build+useful+things.+Make+them+beautiful+and+reusable." alt="Typing SVG" />
 
-![Rust](https://img.shields.io/badge/-Rust-FA7343?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-4285F4?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-0062D3?style=flat-square&logo=python&logoColor=white)
-![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+<p>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" />
+</p>
 
-
-> Deep in ai coding mode – building AI-powered developer tools at ludicrous speed. 🚀
-> 
-> Feel free to star any of my repositories if you find them useful. ⭐
-> 
-> Open to collaborations and interesting projects. 🤝
-
-
-## Philosophy
-"Ship beats perfect" - I build tools to solve my own problems, then share them with the world. Currently exploring how AI changes everything about software development.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Key Words</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Engineering-0f766e?style=flat-square&logo=nsis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Agent-111a23e?style=flat-square&logo=probot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Full%20Stack-364b6b?style=flat-square&logo=webpack&logoColor=white" />
+        <img src="https://img.shields.io/badge/Recommendation-8b5cf6?style=flat-square&logo=apachespark&logoColor=white" />
+        <img src="https://img.shields.io/badge/RAG%20%2F%20VectorDB-0ea5e9?style=flat-square&logo=semanticweb&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Data%20Analytics-0891b2?style=flat-square&logo=plotly&logoColor=white" />
+        <img src="https://img.shields.io/badge/Open%20Source-1e293b?style=flat-square&logo=github&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Tech Stack</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=ai,rust,go,ts,py,pytorch,docker,kubernetes,linux" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Philosophy</h3>
+      <p>
+        "Ship beats perfect" - I build tools to solve my own problems, then share them with the world. Currently exploring how AI changes everything about software development.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>What I'm Doing</h3>
+      <p>
+        Deep in ai coding mode – building AI-powered developer tools at ludicrous speed. 🚀
+      </p>
+      <p>
+        Living in the future.
+      </p>
+      <p>
+        Rapid prototyping.
+      </p>
+    </td>
+  </tr>
+</table>
+<div>
 
 <p align="center">
   <img src="assets/banner.gif" width=1024>
@@ -61,13 +92,6 @@
 | [BookmarkManager](https://github.com/cv70/bookmark-manager-) | Bookmark Manager Implemented in C++ | C++, QT |
 | [FileSharingClient](https://github.com/cv70/file-sharing-client) | Client for a File Sharing System Implemented in C++ | C++, QT, TCP, UDP |
 | [FileSharingServer](https://github.com/cv70/file-sharing-server) | Server for a File Sharing System Implemented in C++ | C++, TCP, UDP |
-
-
-## What I'm Doing
-- Living in the future.
-- Writing about AI workflows.
-- Rapid prototyping.
-
 
 ## 📈 Contribution Graph
 <picture>
