@@ -11,10 +11,10 @@
       <h3>Key Words</h3>
       <p>
         <img src="https://img.shields.io/badge/Engineering-0f766e?style=flat-square&logo=nsis&logoColor=white" />
-        <img src="https://img.shields.io/badge/Agent-111a23e?style=flat-square&logo=probot&logoColor=white" />
         <img src="https://img.shields.io/badge/Full%20Stack-364b6b?style=flat-square&logo=webpack&logoColor=white" />
         <img src="https://img.shields.io/badge/Recommendation-8b5cf6?style=flat-square&logo=apachespark&logoColor=white" />
-        <img src="https://img.shields.io/badge/RAG%20%2F%20VectorDB-0ea5e9?style=flat-square&logo=semanticweb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Agent-111a23e?style=flat-square&logo=probot&logoColor=white" />
+        <img src="https://img.shields.io/badge/RAG-0ea5e9?style=flat-square&logo=semanticweb&logoColor=white" />
         <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white" />
         <img src="https://img.shields.io/badge/Data%20Analytics-0891b2?style=flat-square&logo=plotly&logoColor=white" />
         <img src="https://img.shields.io/badge/Open%20Source-1e293b?style=flat-square&logo=github&logoColor=white" />
@@ -37,7 +37,7 @@
     <td width="50%" valign="top">
       <h3>What I'm Doing</h3>
       <p>
-        Deep in ai coding mode – building AI-powered developer tools at ludicrous speed. 🚀
+        Deep in ai coding mode – building AI-powered developer tools at ludicrous speed.
       </p>
       <p>
         Living in the future.
