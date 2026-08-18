@@ -23,7 +23,7 @@
     <td width="50%" valign="top">
       <h3>Tech Stack</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=ai,rust,go,ts,py,pytorch,docker,kubernetes,linux" />
+        <img src="https://skillicons.dev/icons?i=ai,rust,go,py,ts,pytorch,docker,kubernetes,linux" />
       </p>
     </td>
   </tr>
