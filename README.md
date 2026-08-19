@@ -93,7 +93,13 @@
 | [FileSharingClient](https://github.com/cv70/file-sharing-client) | Client for a File Sharing System Implemented in C++ | C++, QT, TCP, UDP |
 | [FileSharingServer](https://github.com/cv70/file-sharing-server) | Server for a File Sharing System Implemented in C++ | C++, TCP, UDP |
 
-## 📈 Contribution Graph
+## Activity Dashboard
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cv70/cv70/output/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cv70/cv70/output/profile-season-animate.svg" />
+  <img src="https://raw.githubusercontent.com/cv70/cv70/output/profile-season-animate.svg" />
+</picture>
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cv70/cv70/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cv70/cv70/output/github-contribution-grid-snake.svg">
